@@ -1,12 +1,26 @@
 ## Welcome to Archer Pages
 
+# 个人信息
+
+ - archer/男/1992 
+ - 本科/江苏科技大学-计算机系 
+ - 工作年限：3年
+ - 简书：[@Archer_S](http://www.jianshu.com/u/d28964eee645) 
+ - 技术博客：[@Archer_sc](http://blog.csdn.net/archer_sc) 
+ - Github：[@ArcherSC](https://github.com/ArcherSC)  
+
+ - 期望职位：iOS开发工程师
+ - 期望城市：苏州
+
+---
+
 You can aclick the [persional page](https://github.com/ArcherSC) to see the frames i createdd.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Archer** 
 
 ```markdown
 Syntax highlighted code block
