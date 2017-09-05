@@ -22,4 +22,4 @@
 .net开发工程师，主要负责新老后台的维护，中间有涉及“会玩云南”项目上线，各类红包项目上线
 # 产品示例
 [微竞猜](https://pro.modao.cc/app/S8chutVIVozXnUBIoOuHNXt8Ci3pZXI)
-
+[App Store中查看]（https://itunes.apple.com/us/app/微竞猜/id1270550763?l=zh&ls=1&mt=8）
